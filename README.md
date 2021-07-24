@@ -7,7 +7,7 @@ Please do keep the spirit of open source alive here. Everyone is welcome to pull
 
 The way we wanted to run this project was as an idea that's slowly built into a reality. More details will be added as we continue to workshop. The idea here is that everyone who wants to learn new technologies alongside us are welcome to do so with this idea as a general framework. Feel free to change or add whatever you'd like. Just sign it with your name and the date so we know where changes are made. 
 
-Again, I want to stress that right now it's an infant of an idea. So far I've experimented with some libraries to scrape data off local devices as a means of data gathering. Continuing forward, an example of a path you can take is to implement a basic localized blockchain system with arbitrary data. Then we can store the data on that blockchain or work towards that. 
+Again, I want to stress that right now it's an infant of an idea. So far I've experimented with some libraries to scrape data off local devices as a means of data gathering. Continuing forward, an example of a path you can take is to implement a basic localized blockchain system with arbitrary data. Then we can store the data on that blockchain or work towards that. Or you can look at a distributed database system which is essentially going to be our distributed ledger through blockchain, and you learn how to aggregate/work with data there which should lead to insights on how our smart contracts will work. 
 
 Prerequisite: 
 
