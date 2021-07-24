@@ -5,6 +5,9 @@ Disclaimer:
 
 Please do keep the spirit of open source alive here. Everyone is welcome to pull from the main branch or any sub-branches I create but please do push to a separate branch that is aptly named so there's no confusion. 
 
+The way we wanted to run this project was as an idea that's slowly built into a reality. More details will be added as we continue to workshop. The idea here is that everyone who wants to learn new technologies alongside us are welcome to do so with this idea as a general framework. Feel free to change or add whatever you'd like. Just sign it with your name and the date so we know where changes are made. 
+
+Again, I want to stress that right now it's an infant of an idea. So far I've experimented with some libraries to scrape data off local devices as a means of data gathering. Continuing forward, an example of a path you can take is to implement a basic localized blockchain system with arbitrary data. Then we can store the data on that blockchain or work towards that. 
 
 Prerequisite: 
 
