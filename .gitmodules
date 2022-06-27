@@ -1,0 +1,3 @@
+[submodule "BlockChainProject/BlockChainUI"]
+	path = BlockChainProject/BlockChainUI
+	url = https://github.com/Agangwani/FreeDataProjectUI.git
